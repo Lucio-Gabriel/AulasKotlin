@@ -23,7 +23,7 @@ fun main() {
         println("opcoes selecionadas: 4 até 8")
     }*/
 
-    val opcao = 5
+    val opcao = 3
 //    println("Cartão de Credito")
 //    println("Saldo")
 //    println("Extrato")
