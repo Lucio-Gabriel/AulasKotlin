@@ -1,19 +1,19 @@
 package com.gabriel.aulaskotlin
 
 // Coonstrutor primario
-class Usuario1 (
+/*class Usuario1 (
     var nome: String = "",
     var sobrenome: String = ""
 ){
 
-    /*
+    *//*
     var nome: String = ""
-    var sobrenome: String = ""*/
+    var sobrenome: String = ""*//*
 
     //inicializar
     init {
-        /*this.nome = nome
-        this.sobrenome = sobrenome*/
+        *//*this.nome = nome
+        this.sobrenome = sobrenome*//*
         println("Objeto inicializado")
         println("Nome: $nome - Sobrenome: $sobrenome")
     }
@@ -22,10 +22,10 @@ class Usuario1 (
         println("Construtor Secundario")
     }
 
-}
+}*/
 
 fun main() {
 
-    val usuario = Usuario1("Gabriel", "Azevedo")
+//    val usuario = Usuario1("Gabriel", "Azevedo")
 
 }
